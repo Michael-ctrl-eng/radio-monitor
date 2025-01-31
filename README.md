@@ -174,10 +174,4 @@ This is just the basic setup. You can customize the script further later:
 
 *   **Adjust scraping interval:** Change `SCRAPE_INTERVAL` in `.env` to change how often the script checks the radio status (time in milliseconds).
 *   **Monitor different data:** If your radio's website shows other information, you can try to extract that as well by updating `selectors.json` and modifying the `radio-monitor.js` script (more advanced).
-*   **Create reports or dashboards:**  You could build on this script to generate reports from the collected data or create a web dashboard to visualize the radio status in real-time (more advanced programming required).
-
-## Need Help?
-
-If you are having trouble setting up or running this Radio Monitoring Script, please provide details about what you have tried and any error messages you are seeing when asking for help. The more information you give, the easier it is to assist you!
-
-Good luck, and happy radio monitoring!
+*   **Create reports or dashboards:**  You could build on this script to generate reports from the collected data or create a web dashboard to visualize the radio status in real-time (more advanced programming required
