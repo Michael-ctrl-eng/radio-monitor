@@ -1,0 +1,6 @@
+{
+  "onOffStatusSelector": "#custom-status-indicator",
+  "lastLoginTimeSelector": "//div[@id='login-time-xpath']",
+  "signalStrengthSelector": ".custom-signal-class",
+  "batteryLevelSelector": "#battery-level-percent"
+}
