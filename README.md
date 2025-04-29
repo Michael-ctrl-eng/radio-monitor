@@ -1,6 +1,3 @@
-Okay, I understand. You want me to take your provided README.md text, make it more humanized and professional, handle all necessary edits (including instructions for renaming files within the text), and provide the final, polished version ready for you to copy and paste directly into your README.md file on GitHub, with no further editing required on your end.
-
-Here is the refined README.md content based on your provided text, improved for clarity, professionalism, and ease of use for someone setting up the script:
 
 # Automated POC Radio Status Monitoring Script
 
